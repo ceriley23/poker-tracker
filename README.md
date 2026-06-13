@@ -33,7 +33,7 @@ Also: don't clear Chrome's site data / browsing data for this app's site, or
 the data goes with it. (The app asks Chrome for "persistent storage" so normal
 cleanup won't touch it.)
 
-## Putting it on your phone
+## Putting it on your phone (if you arent me, just go to step 5)
 
 The app is just a folder of files. It needs to be served over HTTPS once so
 your phone can install it; the free way is GitHub Pages:
